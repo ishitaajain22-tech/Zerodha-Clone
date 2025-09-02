@@ -16,19 +16,13 @@ It's another part of Zerodha clone. After logging in, user can show the current 
 > ⚠️ **Note:** Start frontend server first, to avoid conflict with port numbers.
 
 2. Clone the dashborad repo into your local machine under dashboard folder (as described in step 1).
-   ```git bash
 
 3. Navigate to the dashborad folder & install all the dependencies.
    ```git bash
    cd basdboard_directory_name
    npm install
-
-4. Create a .env file and set up all environemtal variables in it.
-   ```git bash
-    REACT_APP_BACKEND_URL=http://localhost:3000
-    REACT_APP_FRONTEND_URL=http://localhost:5173
-
-5. Now, you can start the server.
+   
+4. Now, you can start the server.
    ```git bash
    npm start
 

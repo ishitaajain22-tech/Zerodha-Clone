@@ -11,10 +11,7 @@ As a practice work, I tried to build a clone of stock exhange platform. I used R
    cd folder_name
    npm install
 
-3. Set up the <a href="https://github.com/MdMahdiHasanTazelly/Zerodha_clone_dashboard">dashboard</a> and <a href="https://github.com/MdMahdiHasanTazelly/Zerodha_clone_backend">backend</a>. Create a .env file and add these environemtal variables.
-   ```bash
-   REACT_APP_BACKEND_URL="http://localhost:3002"
-   REACT_APP_DASHBOARD_URL="http://localhost:3001"
+3. Set up the <a href="https://github.com/MdMahdiHasanTazelly/Zerodha_clone_dashboard">dashboard</a> and <a href="https://github.com/MdMahdiHasanTazelly/Zerodha_clone_backend">backend</a>. 
 
 4. Start the server.
    ```bash

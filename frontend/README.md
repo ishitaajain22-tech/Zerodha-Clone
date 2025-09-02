@@ -20,7 +20,7 @@ As a practice work, I tried to build a clone of stock exhange platform. I used R
 <br/>
 
 > ⚠️**Note:** 
->- Start the frontend first, so that it can be run on port 3000 and then dashboard will automatically be on   port 3002.
+>- Start the frontend first, so that it can be run on port 5173 and then dashboard will automatically be on port 5174.
 >- All the 3 folders (frontend, backend & dashboard) should be in a single folder.
 
 

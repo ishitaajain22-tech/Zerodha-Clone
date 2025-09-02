@@ -4,14 +4,14 @@ As a practice work, I tried to build a clone of stock exhange platform. I used R
 ## Installation
 1. Clone this repository.
    ```bash
-   git clone https://github.com/MdMahdiHasanTazelly/Zerodha_clone_frontend
+   https://github.com/ishitaajain22-tech/Zerodha-Clone
 
 2. Navigate to project folder & install associated deepndencies
    ```bash
    cd folder_name
    npm install
 
-3. Set up the <a href="https://github.com/MdMahdiHasanTazelly/Zerodha_clone_dashboard">dashboard</a> and <a href="https://github.com/MdMahdiHasanTazelly/Zerodha_clone_backend">backend</a>. 
+3. Set up the dashboard and backend. For backend, dp "npm install" for installing dependencies and start the server.
 
 4. Start the server.
    ```bash

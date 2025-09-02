@@ -7,7 +7,8 @@ It's another part of Zerodha clone. After logging in, user can show the current 
 
 - React.js
 - MongoDB
-
+- Express.js
+- Node.js
 
 ## Installation
 
